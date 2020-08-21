@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c1ed1b1-5c9f-4711-85e0-69568fa60238" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gGQlyVqgvcRtd6xmjVBm3g52oQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Tree">
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.algoritmn.self.easy.PalindromeNumber" />
+      <module name="TILJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myapp.algoritmn.self.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.algoritmn.self.easy.ReverseInteger" />
+      <module name="TILJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myapp.algoritmn.self.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.algoritmn.self.easy.RomanToInteger" />
+      <module name="TILJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myapp.algoritmn.self.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.ds.self.Tree" />
+      <module name="TILJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myapp.ds.self.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.algoritmn.self.TwoSum" />
+      <module name="TILJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myapp.algoritmn.self.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.ReverseInteger" />
+      <item itemvalue="Application.PalindromeNumber" />
+      <item itemvalue="Application.RomanToInteger" />
+      <item itemvalue="Application.Tree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.RomanToInteger" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.ReverseInteger" />
+        <item itemvalue="Application.TwoSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c1ed1b1-5c9f-4711-85e0-69568fa60238" name="Default Changelist" comment="" />
+      <created>1597738603937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597738603937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1597826527462">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1597826527462" />
+    <state x="808" y="428" width="348" height="194" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1597742235198">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="808" y="428" width="348" height="194" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1597742235198" />
+    <state width="1860" height="285" key="GridCell.Tab.0.bottom" timestamp="1597999920137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597999920137" />
+    <state width="1860" height="285" key="GridCell.Tab.0.center" timestamp="1597999920137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597999920137" />
+    <state width="1860" height="285" key="GridCell.Tab.0.left" timestamp="1597999920137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597999920137" />
+    <state width="1860" height="285" key="GridCell.Tab.0.right" timestamp="1597999920137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597999920137" />
+    <state width="1860" height="348" key="GridCell.Tab.1.bottom" timestamp="1597997016090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597997016090" />
+    <state width="1860" height="348" key="GridCell.Tab.1.center" timestamp="1597997016090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="348" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597997016090" />
+    <state width="1860" height="348" key="GridCell.Tab.1.left" timestamp="1597997016090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="348" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597997016090" />
+    <state width="1860" height="348" key="GridCell.Tab.1.right" timestamp="1597997016090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="348" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597997016090" />
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1597990511835">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1597990511835" />
+    <state x="639" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597739785527">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="639" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1597739785527" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/myapp/ds/self/Tree.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
