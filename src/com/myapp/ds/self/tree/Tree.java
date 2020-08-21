@@ -1,4 +1,4 @@
-package com.myapp.ds.self;
+package com.myapp.ds.self.tree;
 
 import com.sun.javafx.scene.traversal.TraversalEngine;
 
