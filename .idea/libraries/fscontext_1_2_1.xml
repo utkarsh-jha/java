@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fscontext-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../00_JARS/JNDI/fscontext-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../00_JARS/JNDI/sun-jndi-providerutil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

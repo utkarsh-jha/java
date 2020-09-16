@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sun-jndi-providerutil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../00_JARS/JNDI/sun-jndi-providerutil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

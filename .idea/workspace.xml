@@ -2,9 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c1ed1b1-5c9f-4711-85e0-69568fa60238" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/myapp/ds/self/tree/AVLTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/myapp/ds/self/tree/BinarySearchTree2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fscontext_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sun_jndi_providerutil.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/design/pattern/creational/Singleton/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/design/pattern/creational/factory/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/design/pattern/creational/factory/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/design/pattern/creational/factory/PlanA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/design/pattern/creational/factory/PlanB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/design/pattern/creational/factory/PlanC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/design/pattern/creational/factory/PlanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/ds/self/tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/common/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/concurrency/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/concurrency/ProducerConsumerLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/concurrency/ProducerConsumerWaitNotifyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/concurrency/SynchronizedMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/core/ConTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/core/ImmutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/jdbc/JDBCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/jndi/FSContextJNDIDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/networking/socket/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/networking/socket/SocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/myapp/java/serialization/SerializationDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TILJavaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TILJavaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TILJavaProjects/com/myapp/ds/self/tree/BinarySearchTree2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TILJavaProjects/com/myapp/ds/self/tree/BinarySearchTree2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/myapp/ds/self/tree/BinarySearchTree2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/myapp/ds/self/tree/BinarySearchTree2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +47,40 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gGQlyVqgvcRtd6xmjVBm3g52oQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../00_JARS/JNDI/sun-jndi-providerutil.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BinarySearchTree2">
-    <configuration name="AVLTree2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myapp.ds.self.tree.AVLTree2" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myapp.design.pattern.creational.factory" />
+      <recent name="com.myapp.java.concurrency" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\02_WORK\99_RAND\06_SIP\java\src\com" />
+      <recent name="F:\02_WORK\99_RAND\06_SIP\java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SocketServer">
+    <configuration name="PlanA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.design.pattern.creational.factory.PlanA" />
       <module name="TILJavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.myapp.ds.self.tree.*" />
+          <option name="PATTERN" value="com.myapp.design.pattern.creational.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTree2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myapp.ds.self.tree.BinarySearchTree2" />
+    <configuration name="SerializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.java.serialization.SerializationDemo" />
       <module name="TILJavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.myapp.ds.self.tree.*" />
+          <option name="PATTERN" value="com.myapp.java.serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myapp.algoritmn.self.easy.RomanToInteger" />
+    <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.design.pattern.creational.Singleton.SingletonDemo" />
       <module name="TILJavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.myapp.algoritmn.self.easy.*" />
+          <option name="PATTERN" value="com.myapp.design.pattern.creational.Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myapp.ds.self.Tree" />
+    <configuration name="SocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.java.networking.socket.SocketClient" />
       <module name="TILJavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.myapp.ds.self.*" />
+          <option name="PATTERN" value="com.myapp.java.networking.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myapp.ds.self.tree.Trie" />
+    <configuration name="SocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myapp.java.networking.socket.SocketServer" />
       <module name="TILJavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.myapp.ds.self.tree.*" />
+          <option name="PATTERN" value="com.myapp.java.networking.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +141,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RomanToInteger" />
-      <item itemvalue="Application.Tree" />
-      <item itemvalue="Application.Trie" />
-      <item itemvalue="Application.BinarySearchTree2" />
-      <item itemvalue="Application.AVLTree2" />
+      <item itemvalue="Application.PlanA" />
+      <item itemvalue="Application.SingletonDemo" />
+      <item itemvalue="Application.SerializationDemo" />
+      <item itemvalue="Application.SocketServer" />
+      <item itemvalue="Application.SocketClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearchTree2" />
-        <item itemvalue="Application.AVLTree2" />
-        <item itemvalue="Application.Trie" />
-        <item itemvalue="Application.Tree" />
-        <item itemvalue="Application.RomanToInteger" />
+        <item itemvalue="Application.SocketClient" />
+        <item itemvalue="Application.SocketServer" />
+        <item itemvalue="Application.SerializationDemo" />
+        <item itemvalue="Application.SingletonDemo" />
+        <item itemvalue="Application.PlanA" />
       </list>
     </recent_temporary>
   </component>
@@ -125,61 +168,116 @@
       <option name="presentableId" value="Default" />
       <updated>1597738603937</updated>
     </task>
+    <task id="LOCAL-00001" summary="25-08-2020 revised binart and AVL tree">
+      <created>1598344633489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598344633489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="25-08-2020 revised binart and AVL tree" />
+    <MESSAGE value="25-08-2020 revised binary and AVL tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="25-08-2020 revised binary and AVL tree" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1598248767381">
+    <state x="552" y="186" key="#Project_Structure" timestamp="1599021270586">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1598248767381" />
+    <state x="552" y="186" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1599021270586" />
+    <state x="765" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1600256404587">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1600256404587" />
     <state x="808" y="428" width="348" height="194" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1597742235198">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="808" y="428" width="348" height="194" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1597742235198" />
+    <state x="690" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600229836567">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600229836567" />
     <state x="627" y="123" key="CommitChangelistDialog2" timestamp="1598344651083">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="627" y="123" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1598344651083" />
-    <state width="1877" height="243" key="GridCell.Tab.0.bottom" timestamp="1598344598544">
+    <state x="666" y="269" key="FileChooserDialogImpl" timestamp="1599826525264">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598344598544" />
-    <state width="1877" height="243" key="GridCell.Tab.0.center" timestamp="1598344598544">
+    <state x="666" y="269" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1599826525264" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1600256903310">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="243" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598344598544" />
-    <state width="1877" height="243" key="GridCell.Tab.0.left" timestamp="1598344598544">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600256903310" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1600256903310">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="243" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598344598544" />
-    <state width="1877" height="243" key="GridCell.Tab.0.right" timestamp="1598344598544">
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600256903310" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1600256903310">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="243" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598344598544" />
-    <state width="1860" height="348" key="GridCell.Tab.1.bottom" timestamp="1598011733162">
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600256903310" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1600256903310">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1860" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598011733162" />
-    <state width="1860" height="348" key="GridCell.Tab.1.center" timestamp="1598011733162">
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600256903310" />
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom" timestamp="1600255534964">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1860" height="348" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598011733162" />
-    <state width="1860" height="348" key="GridCell.Tab.1.left" timestamp="1598011733162">
+    <state width="1877" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1600255534964" />
+    <state width="1877" height="351" key="GridCell.Tab.1.center" timestamp="1600255534964">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1860" height="348" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598011733162" />
-    <state width="1860" height="348" key="GridCell.Tab.1.right" timestamp="1598011733162">
+    <state width="1877" height="351" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1600255534964" />
+    <state width="1877" height="351" key="GridCell.Tab.1.left" timestamp="1600255534963">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1860" height="348" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598011733162" />
-    <state x="668" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1598328462647">
+    <state width="1877" height="351" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1600255534963" />
+    <state width="1877" height="351" key="GridCell.Tab.1.right" timestamp="1600255534964">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="668" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598328462647" />
+    <state width="1877" height="351" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600255534964" />
+    <state x="440" y="102" key="SettingsEditor" timestamp="1599826531881">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="102" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1599826531881" />
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1600168822857">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600168822857" />
     <state x="639" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597739785527">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="639" y="143" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1597739785527" />
+    <state x="731" y="245" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598415767986">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="731" y="245" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598415767986" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1599826796058">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1599826796058" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1600064876386">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1600064876386" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

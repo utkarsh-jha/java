@@ -99,15 +99,16 @@ public class BinarySearchTree2 {
 
     public static void main(String[] args) {
         BinarySearchTree2 tree = new BinarySearchTree2();
-        tree.insert(8);
-        tree.insert(7);
-        tree.insert(6);
-        tree.insert(5);
-        tree.insert(4);
-        tree.insert(3);
-        tree.insert(2);
-        tree.insert(1);
-        tree.printRightSide();
+//        tree.insert(8);
+//        tree.insert(7);
+//        tree.insert(6);
+//        tree.insert(5);
+//        tree.insert(4);
+//        tree.insert(3);
+//        tree.insert(2);
+//        tree.insert(1);
+//        tree.printRightSide();
+
     }
 
 }

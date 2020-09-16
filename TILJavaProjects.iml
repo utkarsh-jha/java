@@ -12,5 +12,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="ojdbc7" level="project" />
+    <orderEntry type="library" name="fscontext-1.2.1" level="project" />
+    <orderEntry type="library" name="sun-jndi-providerutil" level="project" />
   </component>
 </module>
